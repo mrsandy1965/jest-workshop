@@ -22,7 +22,7 @@ List each test you wrote and briefly explain **what bug or regression it prevent
 ---
 
 ### 3. Flat 50 coupon check and max value:
-**It makes sure that the discount is 50 with the Flat 50 coupon and also if it works properly**  
+**It makes sure that the discount is 50 with the Flat 50 coupon and also if it  works properly**  
 
 ---
 
